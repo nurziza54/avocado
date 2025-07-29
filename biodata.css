@@ -1,0 +1,45 @@
+body{
+    background-color: pink;
+}
+
+h1, h3 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 40px;
+}
+
+h1 {
+    line-height: 1;
+}
+
+p {
+    text-align: left;
+    color: black;
+    margin: 25px;
+}
+
+.button-ig {
+    display: inline-block;
+    background-color: white;
+    color: pink;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 30px;
+}
+
+a {
+    margin: 30px;
+}
+
+img {
+    width: 800px;
+    height: 400px;
+    object-fit: contain;
+    float: right;
+}
